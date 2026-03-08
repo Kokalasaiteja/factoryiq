@@ -154,4 +154,4 @@ This project is licensed under the MIT License.
 
 ---
 
-© 2024 FactoryIQ - Manufacturing Excellence | Nexgile Technologies
+© 2024 FactoryIQ - Manufacturing Excellence | Nexgile Technologies"# factoryiq" 

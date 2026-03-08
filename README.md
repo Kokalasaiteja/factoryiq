@@ -145,7 +145,7 @@ new-app/
 
 ## Author
 
-- **Developer:** Kokala Sai Teja
+- **Developer:** Kokalasaiteja
 - **Task:** First Round System Test for Nexgile Technologies
 
 ## License
@@ -154,4 +154,5 @@ This project is licensed under the MIT License.
 
 ---
 
-© 2024 FactoryIQ - Manufacturing Excellence | Nexgile Technologies"# factoryiq" 
+© 2024 FactoryIQ - Manufacturing Excellence | Nexgile Technologies
+

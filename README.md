@@ -141,7 +141,7 @@ new-app/
 
 ## Screenshots
 
-![Dashboard Preview](preview-url)
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/c54b3055-de86-4f51-a7c6-6c281980a63b" />
 
 ## Author
 

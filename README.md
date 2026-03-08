@@ -11,8 +11,7 @@ FactoryIQ is a comprehensive Manufacturing Excellence dashboard built with React
 
 ## Live Demo
 
-**[Live Link: Add your deployed URL here]**
-
+[**Live Link**](https://factoryiq.vercel.app/login)
 ## Technology Stack
 
 - **Frontend Framework:** React 18.2.0

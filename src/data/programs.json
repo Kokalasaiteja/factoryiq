@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Project Alpha",
+    "description": "EV Battery Pack",
+    "owner": "Sarah Chen",
+    "site": "Detroit Plant",
+    "milestone": "Production Launch",
+    "status": "green",
+    "completion": 85
+  },
+  {
+    "id": 2,
+    "name": "Project Beta",
+    "description": "Solar Inverter",
+    "owner": "Michael Ross",
+    "site": "Austin Facility",
+    "milestone": "Design Review",
+    "status": "yellow",
+    "completion": 45
+  },
+  {
+    "id": 3,
+    "name": "Project Gamma",
+    "description": "Medical Device",
+    "owner": "Dr. Emily Watson",
+    "site": "Boston HQ",
+    "milestone": "FDA Submission",
+    "status": "green",
+    "completion": 72
+  },
+  {
+    "id": 4,
+    "name": "Project Delta",
+    "description": "Industrial Robot",
+    "owner": "James Liu",
+    "site": "San Jose Lab",
+    "milestone": "Prototype Testing",
+    "status": "red",
+    "completion": 28
+  },
+  {
+    "id": 5,
+    "name": "Project Epsilon",
+    "description": "Aerospace Component",
+    "owner": "Robert Kim",
+    "site": "Seattle Plant",
+    "milestone": "Certification",
+    "status": "green",
+    "completion": 91
+  },
+  {
+    "id": 6,
+    "name": "Project Zeta",
+    "description": "Automotive ECU",
+    "owner": "Lisa Park",
+    "site": "Detroit Plant",
+    "milestone": "SOP",
+    "status": "green",
+    "completion": 67
+  },
+  {
+    "id": 7,
+    "name": "Project Eta",
+    "description": "Smart Meter",
+    "owner": "David Miller",
+    "site": "Chicago Factory",
+    "milestone": "Pilot Run",
+    "status": "yellow",
+    "completion": 38
+  }
+]
+
